@@ -16,3 +16,19 @@ $('.multi-item-carousel').on('slide.bs.carousel', function (e) {
       }
     }
   });
+
+  $('.owl-carousel').owlCarousel({
+    items:5,
+    loop:true,
+    autoplay:true,
+    margin:10,
+    merge:true,
+    responsive:{
+        678:{
+            mergeFit:true
+        },
+        1000:{
+            mergeFit:false
+        }
+    }
+});

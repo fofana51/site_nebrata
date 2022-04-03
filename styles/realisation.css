@@ -1,0 +1,155 @@
+body{ }
+.navbar{
+  position: fixed !important;
+  z-index: 100;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+.container-fluid{
+  
+  width: 100% !important;
+  height: 100px !important;
+  background-color: rgb(238, 241, 233) !important;
+  color: blue !important;
+  
+}
+.navbar-brand{
+  color: blue !important;
+  margin-left: 40px !important;
+  font-weight: 700;
+}
+.bien{
+
+}
+.nav-link{
+  color: blue !important;
+  margin-left: 30px !important;
+  font-weight: 700;
+}
+.navbar{
+  color: blue !important;
+}
+.reali{
+  margin-top: 150px;
+  background-color: greenyellow;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.reali1{
+  margin-top: 50px;
+  background-color: greenyellow;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/*realisation*/
+.flexe{
+    display: flex;
+    margin: 40px;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.coul{
+    background-color: black !important;
+    width: 300px !important;
+    margin-left: 100px;
+
+}
+
+.container img {vertical-align: middle;}
+
+
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  
+  color: #f1f1f1;
+  padding: 20px;
+  
+}
+
+.centre{
+  background-color: black !important;
+  top: 40px;
+}
+.paragr{
+  background-color: green;
+  height: auto;
+}
+.bd-highlight{
+    margin-top: 40px !important;
+    background-color: black !important;
+    color: white !important;
+    font-size: 15px !important;
+    width: 100% !important;
+}
+.col{
+  width: 400px !important;
+  margin-left: 30px !important;
+  
+  
+}
+.row{
+  width: 100% !important;
+  
+}
+.card-title{
+  font-size: 20px !important;
+  text-align: center !important;
+
+}
+.card-text{
+  text-align: center !important;
+}
+#col1{
+  margin-right: 30px !important;
+}
+.card-img-top{
+  border-radius: 50% !important;
+  border: 1px solid black !important;
+  width: 180px !important;
+  height: 180px;
+  margin-left: 100px  !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+.foter4{
+    margin-left: 80px !important;
+}
+
+.foter3{
+    margin-left: 60px !important;
+}
+.foter8{
+    background-color: rgb(36, 27, 27);
+    color: white;
+}
+.bas{
+    margin-left: 500px;
+}
+.equipe {
+  text-align: center;
+  font-weight: 600;
+  background-color: blue;
+  color: white;
+}
+ 
+
+
+
+
+
+.aaa{
+  display: flex;
+}
+
